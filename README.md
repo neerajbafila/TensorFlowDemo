@@ -5,5 +5,5 @@
 ``` 
 conda create --prefix ./env python=3.7
 ```
-# for terserflow 
+# for terserflow  
 ```pip install tensorflow```

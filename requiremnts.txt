@@ -3,3 +3,5 @@ pandas
 matplotlib
 tensorflow
 notebook
+seaborn
+yaml
