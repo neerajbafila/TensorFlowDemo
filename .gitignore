@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 tensorboard_logs/
-researchEnv/researchEnv/=
+researchEnv/researchEnv/
