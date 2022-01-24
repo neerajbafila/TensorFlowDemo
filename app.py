@@ -6,6 +6,8 @@ if __name__=='__main__':
     config_file = 'config.yaml' 
 
     # training(config_file)
+   
+   
     # for testing 
     config = read_config(config_file)
     validation_data_size = config['params']["validation_data_size"]
